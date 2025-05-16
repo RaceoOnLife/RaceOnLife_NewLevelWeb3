@@ -1,0 +1,61 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "raceonlife_lib",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "EternityLifeStudio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "raceonlife_lib",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RuntimeAudioImporter",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux",
+				"LinuxArm64",
+				"IOS",
+				"Android",
+				"TVOS",
+				"PS4",
+				"PS5",
+				"Switch"
+			]
+		},
+		{
+			"Name": "RuntimeAudioImporterEditor",
+			"Type": "Editor",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux",
+				"LinuxArm64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AndroidPermission",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaSound",
+			"Enabled": true
+		}
+	]
+}
