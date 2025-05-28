@@ -48,8 +48,6 @@ All vehicles on the island have a realistic damage model, adding realism to ever
 
 ### Dynamic World, Controlled by Players
 
-**Control of Territories.** Join one of the gangs and fight for influence on the island. Control key objects, such as banks and gas stations, to earn income and increase authority.
-
 **Political System.** Participate in city council elections, make decisions on city development, taxes and laws, influence the economy.
 
 **Economy.** Open your own business, manage enterprises and shape the island's economy.
